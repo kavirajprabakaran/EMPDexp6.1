@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![image](https://github.com/user-attachments/assets/aa3baa89-1e27-4ca4-97b9-3e80b155c02d)
+![image](https://github.com/user-attachments/assets/cdbb616a-20ba-4295-923d-21ae0d8dd772)
+![image](https://github.com/user-attachments/assets/15ba5504-eea7-4281-97fa-b039f8ea6efe)
+![image](https://github.com/user-attachments/assets/9f67ef65-67e4-4036-bff7-51d5d213b9aa)
 
-## Output:
 
-### Name:
-### Register Number:
+
+### Name: Ratheesh Kumar B R
+### Register Number:212223110040
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
