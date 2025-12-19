@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:KAVIRAJ.P
+### Register Number:25017431
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
